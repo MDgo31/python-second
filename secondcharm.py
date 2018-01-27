@@ -10,4 +10,5 @@ def main(msg):
         #please canım ya!
         print('fuck!')
 #another chance
-main("Hello from other side!")
+main("Hello from other side Alcak!")
+
