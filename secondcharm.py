@@ -7,6 +7,7 @@ def main(msg):
         print("branch try!")
         #commitment fuck!
     def fuck():
+        #please canım ya!
         print('fuck!')
 #another chance
 main("Hello from other side!")
