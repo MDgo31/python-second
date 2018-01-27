@@ -1,0 +1,10 @@
+venv/bin
+venv/include
+venv/lib
+venv/pip-selfcheck.json
+venv/
+.idea/misc.xml
+.idea/modules.xml
+.idea/secondtry.iml
+.idea/workspace.xml
+.idea/
